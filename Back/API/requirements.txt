@@ -1,0 +1,9 @@
+flask
+requests
+flask-cors
+Werkzeug
+flask_sqlalchemy
+flask-migrate
+psycopg2-binary
+transformers
+PyJWT==1.7.1
