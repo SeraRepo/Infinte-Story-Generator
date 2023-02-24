@@ -1,0 +1,33 @@
+﻿Sprint 1: planning
+3/3/2022
+
+
+Réunion de début du sprint 1.
+
+Product owners: Abderrahmane, Renato
+Team members: Etienne, Gustave, Simon, Vincent
+
+Création du backlog par l’équipe et ajout des tâches à effectuer au Trello.
+
+Choix de Github pour la CI/CD. Option posée sur Jenkins si on se rend compte que github action est insuffisant. A etudier.
+
+Choix de l’organisation des commits. Les fonctionnalités seronté développées sur des branches individuelles, une branche par fonctionnalité. Ces branches ne doivent pas être merge directement mais doivent faire l’objet d’une Pull Request qui sera étudiée par l’un des product owners.
+
+Une norme de commit doit être choisie et appliquée au repo.
+
+Une architecture de repo doit être définie, le choix sera fait au prochain sprint.
+
+Choix de la méthode agile pour organiser le travail. Une réunion par semaine au début, si nous trouvons le délai trop court, les réunions auront lieu toutes les 2 semaines.
+
+Des procédures doivent être rédigées pour formaliser l’organisation du projet et faiciliter l’intégration de nouveaux membres.
+
+Répartition des tâches dans l’équipe:
+
+User stories: Abderrahmane , Renato
+
+Etat de l’art: Gustave, Simon
+
+Procédures sur l’organisation: Simon
+
+Proof of Concept GPT-2 et google collab: Etienne, Vincent
+

@@ -1,0 +1,26 @@
+AI qui génère une histoire qui peut évoluer avec les inputs user
+
+AIdungeon le fait et on a récupéré le code source
+
+Des modèles GPT existent déjà mais génère histoire complète -> voir si c'est possible des bouts d'histoire seulement
+
+Soit faire du transfer learning sur les modèles GPT sur un dataset créé par nous 
+
+Soit utiliser un modèle préfait  
+
+Soit faire notre propre modèle de 0  // ne pas faire
+
+Par rapport à la génération d'histoire via input users :
+    -> faire un modèle qui garde en params l'histoire et qui la fait évoluer
+    -> faire une AI de NLP qui va prendre la partie de l'histoire faite et génère des params pour faire évoluer l'histoire
+   
+Si trop complexe => génération d'histoire en one shot avec des params donnés
+
+==========================================================================================================================
+
+Modèle préfait intéressant +1
+Transfer learning +2
+
+Récupérer  les inputs +1
+
+Séparer les parties de l'histoire => pas se baser sur le texte mais sur des fils directeur

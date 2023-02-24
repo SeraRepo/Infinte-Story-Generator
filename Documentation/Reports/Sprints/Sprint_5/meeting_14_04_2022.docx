@@ -1,0 +1,20 @@
+Sprint 5: Autopsie AI dungeon, NLP, transfer learning
+14/4/2022
+cf Follow up 2.
+
+Choix de technos:
+    back: Python car plus adapté au traitement de données et à l'ia.
+    front: Flutter pour un seul code source sur toutes les plateformes (android, ios, pc)
+
+Transfer learning:
+    Extrèmement puissant, on part d'une IA déjà entrainée et on la réentraine sur notre dataset.
+
+Histoire évolutive:
+    Conpliqué à mettre en place. Très dur de garder une histoire cohérente.
+    Natural Language Processing: on lui donne des paramètres à garder en mémoire, les bouts d'histoire déjà générée et nouvel input d'utilisateur.
+    Nous avons récupéré le code source d'AI dungeon pour comprendre comment ils y arrivent.
+
+Pour la prochaine fois:
+    Gustave et simon testent le NLP et le transfer learning sur du texte.
+    Etienne fait la doc sur les besoins pour le site
+    Le reste du gang de mulhouse autopsie le code d'AI dungeon.

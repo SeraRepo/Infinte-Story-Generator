@@ -1,0 +1,22 @@
+Trello:
+https://trello.com/b/Ts8ZzkTg/projet-esp
+
+Notions:
+    Roadmap AI:
+    https://www.notion.so/Roadmap-AI-ESP-1a2d35d385ee4e2393a15a4d40a07b68
+
+    State of the art:
+    https://www.notion.so/State-of-the-Art-c9b083e3b5f54a888031592f63640d12
+
+Notebooks (Google Collab):
+    Vosk (STT):
+    https://colab.research.google.com/drive/1iWYBJH_BIe5oHgNpMGjEeAyEpQ-pWFq6
+
+    GPT-J6B:
+    https://colab.research.google.com/drive/14Xz3Nog_0JdDcjKBsh8QPTOl-21YXtNK
+
+    GPT-Neo:
+    https://colab.research.google.com/drive/1iHLNPDh8_7RRzORsT2ugfo8aquhx7px9#scrollTo=OVkBMXn-t2ew
+
+AI Dungeon github:
+https://github.com/Latitude-Archives/AIDungeon

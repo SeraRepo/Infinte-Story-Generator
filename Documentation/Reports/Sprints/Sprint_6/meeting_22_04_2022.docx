@@ -1,0 +1,30 @@
+Sprint 6: Plan du premier PoC, first milestone
+14/4/2022
+
+Impossible de faire garder trop de données à l'ia pour faire une histoire évolutive, trop de paramètres pour le modèle.
+    -> Faire une IA de génération d'histoire
+    -> Une IA qui va analyser l'histoire générée pour en extraire les paramètres à conserver pour la génération suivante
+
+Pour l'instant, faire un PoC:
+    -> Une IA à qui on donne 4 paramètres et créera une histoire
+
+Une fois qu'on aura une base de produit avec front/back/IA barebone, on pourra développer d'autres fonctionnalités autour:
+    -> histoire évolutive, text to speech, speech to text (pour l'iot), etc...
+
+Pour l'instant, nous allons utilse run dataset de base. Par la suite il faudra chercher comment créer un dataset
+
+Text to speech dans le front.
+Speech to text dans le back car le modèle est lourd (1 giga)., le front y enverra le fichier audio.
+
+Gustave et Simon vont s'occuper du premier modèle basique de génération d'histoire.
+Etienne, Renato, Vincent et Abderrahmane vont créer un squelette d'application sans fioritures.
+
+Prochain point la semaine prochaine pour vérifier l'avancée des documents à rendre pour le milestone 1.
+
+Pour rappel, sont à finir et commit avant le dimanche 1er mai à 23h42 :
+    Source code
+    A document that lays out development method, norm ect
+    Quality Assurance Testing (QAT)
+    User Acceptance Testing (UAT)
+    Update the specifications document
+    Job descriptions

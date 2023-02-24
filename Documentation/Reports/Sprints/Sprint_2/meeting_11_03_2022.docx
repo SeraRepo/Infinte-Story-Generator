@@ -1,0 +1,33 @@
+﻿Sprint 2: PoC
+10/3/2022
+
+
+Réunion de début du sprint 2.
+
+Product owners: Abderrahmane, Renato
+Team members: Etienne, Gustave, Simon, Vincent
+
+Présentation de l’état de l’art:
+https://www.notion.so/State-of-the-Art-c9b083e3b5f54a888031592f63640d12
+
+Etat des cartes graphiques. Personne n’a de carte graphique puissante. Le meilleur matériel à disposition est une machine du campus de Mulhouse possédant une rtx 3060 ti 8 gigas Vram. Nous envisageons d’y préparer une machine virtuelle pour utiliser la carte graphique avec CUDA. Elle serait sécurisée pour que seuls nous y ayons accès.
+
+Présentation orale de Google Collab qui met à disposition des gpus. Nous nous dirigeons vers google collab pro à 9,25€/mois pour avoir accès à un nvidia 100 à 16GB. Cela permettrait de faire tourner un GPT-J à 6 milliards de paramètres sous docker(cf notion etat de l’art).
+
+Pour l'instant nos prévoyons d’utiliser google collab gratuit ou une de nos cartes graphiques pour faire un PoC avec un modèle à 1.3B paramètres.
+
+Discussion autour du produit final et des pré-requis matériels.
+
+Nous prévoyons de demander au follow up si l'école peut nous prêter un google home ou Alexa pour le côté IOT.
+
+Contrôle parental obligatoire pour la version du produit addressée aux enfants
+Peut-être créer 2 modèles? En entrainant le deuxième modèle sur un dataset épurée de mots violents.
+Sinon, un filtre qui regarde l'output et en régénère un nouveau si il trigger le filtre parental.
+
+Choix de l'arborescence du dossier. Root ne doit contenir que des sous-dossiers et README, voir un gitignore.
+
+Prochain sprint:
+POC : Tout le monde
+Project specifications: Abderrahmane et Renato
+
+Tout le monde essaie de faire un PoC pour vendredi prochain. Point à 14h, follow up à 14h30, petit point après pour préparer le prochain sprint.

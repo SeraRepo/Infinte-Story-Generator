@@ -1,0 +1,30 @@
+Sprint 3: Recherche
+17/3/2022
+
+
+Réunion de début du sprint 3.
+
+Pas d'objectif précis de défini pour ce sprint, nous comptons nous concentrer sur le projet zoidberg (ou autre pour les non data science/IA) dans nos équipes respectives.
+
+Réflexion autour des ressources requises par le projet.
+
+Est-ce qu'on entraine nous même le modèle, ce qui demande de la puissance de calcul et google collab par ex?
+    -> Demande un serveur/back solide. Est-ce que l'école peut nous aider?
+    -> Python est lent, le faire en C++? Faire une recherche dessus.
+Est-ce qu'on utlise une api externe qui nous fait payer par requête?
+    -> Aka, est-ce qu'on veut créer ou utiliser une IA?
+        -> Ca change le type de PoC à réaliser
+    -> Faire une étude de marché sur les prix des différents prestatires d'API.
+
+Si on fait un produit qui utilise alexa/google home, il faut une app mobile.
+    -> Demander à quelqu'un de faire un poc la dessus.
+    -> Est-ce que l'école peut nous prêter du matos.
+
+
+App mobile accessible par navigateur pour générer une histoire
+
+Tâches à reporter au prochain sprint:
+
+Comparer les différents modèles de GPT
+
+Chercher de la data à scrap pour générer nos 2 datasets

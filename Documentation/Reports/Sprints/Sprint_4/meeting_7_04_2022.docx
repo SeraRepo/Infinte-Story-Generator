@@ -1,0 +1,21 @@
+Sprint 4: PoC transfer learning + recherche
+7/4/2022
+
+
+Réunion de début du sprint 4.
+
+Après les PoCs réussis sur la génération d'une histoire via un prompt, début de la réflexion sur l'histoire évolutive.
+
+Chercher comment faire une histoire évolutive.
+    -> Garder des paramètres des paragraphes générés précédement pour générer le paragraphe suivant.
+    -> AI Dungeon permet à l'utilisateur de définir un nombre limité de paramètres importants à garder.
+
+Limites rencontrées par le modèle concurrent étudié:
+    -> Nombre limité de paramètres conservés, plus de paramètres demande plus de ressources
+    -> Plus l'histoire dure longtemps (en nombre d'interactions de l'utilisateur), plus elle oublie/ignore d'éléments et moins elle reste cohérente
+
+Intérêt pour le transfer learning. Trouver une ai robuste pour l'entrainer avec notre dataset.
+
+Pour la semaine prochaine:
+    -> Gustave et Simon continuent de tester le transfer learning
+    -> Le gang de Mulhouse va tester la conservation de paramètres pour l'histoire évolutive
